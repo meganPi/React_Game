@@ -44,11 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### `Rules of the game`
 
 Younger players are often able to compete with older players because they can be very good at memory-based games.
-    * The objective is to collect the most pairs of cards.
-    * Shuffle the cards and lay them on the table, face down, in rows.
-    * The youngest player goes first. Play then continues in a clockwise direction.
-    * On each turn, a player turns over any two cards (one at a time) and keeps them if the cards match (for instance, two kings)
-    * If they successfully match a pair they get to keep the cards, and that player gets another turn.
-    * When a player turns over two cards that do not match, those cards are turned face down again (in the same position) and it becomes the next player’s turn.
-    * The trick is to remember which cards are where.
-    * The person with the most pairs at the end of the game wins.
+
+* The objective is to collect the most pairs of cards.
+* Shuffle the cards and lay them on the table, face down, in rows.
+* The youngest player goes first. Play then continues in a clockwise direction.
+* On each turn, a player turns over any two cards (one at a time) and keeps them if the cards match (for instance, two kings)
+* If they successfully match a pair they get to keep the cards, and that player gets another turn.
+* When a player turns over two cards that do not match, those cards are turned face down again (in the same position) and it becomes the next player’s turn.
+* The trick is to remember which cards are where.
+* The person with the most pairs at the end of the game wins.
