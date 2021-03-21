@@ -1,0 +1,18 @@
+.HelpBody {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    background-color: rgb(87, 87, 87);
+    border: cadetblue 5px dashed;
+    padding: 20px;
+    color: white;
+}
+
+.HelpHeader{
+    padding-bottom: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
